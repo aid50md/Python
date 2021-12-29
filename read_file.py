@@ -8,6 +8,6 @@ def file_read(fname):
             for line in f:
                 content_array.append(line)
             print(content_array)
-file_read('test.txt')
+file_read('test1.txt')
 
 

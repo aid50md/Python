@@ -1,7 +1,3 @@
-
-
-
-
 import requests
 
 name = input('Your name? ')
